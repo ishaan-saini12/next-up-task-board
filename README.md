@@ -65,7 +65,3 @@ Also verify in the browser: drag cards between columns, reload, create/edit/dele
 - Team members, comments, and activity history would be the next features, with ownership rules on every related table.
 - A public production deployment should configure Supabase's recommended anonymous-signup abuse protection and monitor usage. If CAPTCHA is enabled, add its token flow to anonymous sign-in.
 - Google Fonts has system-font fallbacks if unavailable.
-
-## AI assistance
-
-AI assisted with planning, implementation, and verification. The candidate should review the code, validate the deployed app, and be able to explain guest authentication, RLS, optimistic state, and the selected tradeoffs.
